@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FB093F8A5830B8C0DDBD1376BB526219CE60F870",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FB093F8A5830B8C0DDBD1376BB526219CE60F870" : 0,
+    "47A7C8CCCDE5006FD7B2CACA67E891DEC5E3DF1D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "91BAEFA8-D605-46A9-B432-9EB89C98FD35",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FB093F8A5830B8C0DDBD1376BB526219CE60F870" : "Unrapp_IOS\/",
+    "47A7C8CCCDE5006FD7B2CACA67E891DEC5E3DF1D" : "unrapp"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Unrapp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Unrapp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/rdurish\/unrapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "47A7C8CCCDE5006FD7B2CACA67E891DEC5E3DF1D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/rdurish\/unrapp_ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FB093F8A5830B8C0DDBD1376BB526219CE60F870"
+    }
+  ]
+}

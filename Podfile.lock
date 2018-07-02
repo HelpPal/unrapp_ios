@@ -1,0 +1,18 @@
+PODS:
+  - AuthorizeNetAccept (0.2.0)
+  - CardIO (5.4.1)
+  - DownPicker (0.1.34)
+
+DEPENDENCIES:
+  - AuthorizeNetAccept
+  - CardIO
+  - DownPicker
+
+SPEC CHECKSUMS:
+  AuthorizeNetAccept: aa93937e5cf45d9b8ed53b500a87b37ed1d054d9
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  DownPicker: c00ea63f08ae82116cc93d0eba74e86bf3d4c68e
+
+PODFILE CHECKSUM: 22a96e6f19e598a16d50b0183081b399c6bfa14a
+
+COCOAPODS: 1.2.1
